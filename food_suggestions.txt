@@ -1,0 +1,12 @@
+Age: 54, Weight: 85.24, Physical Activity: moderate, Chronic Kidney Disease: Yes, Diabetes: No, Allergy: Yes
+Can Eat: ['Apples, Bananas, Berries, Carrots, Cauliflower, Fish (low sodium), Chicken (skinless), Eggs']
+Cannot Eat: ['Dairy products (high phosphorus), Red meats (high protein), Fish (high mercury)']
+
+Age: 56, Weight: 86.67, Physical Activity: high, Chronic Kidney Disease: No, Diabetes: No, Allergy: Yes
+Can Eat: ['Potatoes (without skin), Peas, Pears, Strawberries, Watermelon, Grapes']
+Cannot Eat: ['Bananas (high potassium), Oranges (high potassium), Spinach (high oxalate), Potatoes (with skin)']
+
+Age: 57, Weight: 81.93, Physical Activity: high, Chronic Kidney Disease: Yes, Diabetes: Yes, Allergy: Yes
+Can Eat: ['Potatoes (without skin), Peas, Pears, Strawberries, Watermelon, Grapes']
+Cannot Eat: ['Bananas (high potassium), Oranges (high potassium), Spinach (high oxalate), Potatoes (with skin)']
+
